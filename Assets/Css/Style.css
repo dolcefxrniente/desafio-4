@@ -1,0 +1,27 @@
+.body{
+    font-family:'Roboto', sans-serif;
+}
+
+.bg-green{
+    background-color: #28A745;
+}
+
+.t-size{
+    font-size: 20px;
+}
+.logo{
+    width: 86px;
+}
+
+.font-card{
+    color: #707070;
+}
+.f-green{
+    color:#28A745 ;
+}
+.boton{
+width: 112px;
+}
+.cupon{
+    width: 82px;
+}
